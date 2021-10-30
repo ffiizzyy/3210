@@ -1,0 +1,6 @@
+folium
+pandas
+plotly
+statsmodels @ file:///opt/concourse/worker/volumes/live/f55add71-53cb-4510-4c08-7ae9e294a482/volume/statsmodels_1614023740731/work
+streamlit
+streamlit-folium
